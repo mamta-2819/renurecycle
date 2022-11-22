@@ -1,0 +1,33 @@
+.waste-box {
+    border: 1px solid #ececec;
+    padding: 10px 23px 10px 10px;
+    position: relative;    
+}
+
+.waste-box h4
+{
+    color: #9cc900 !important;
+}
+.green-text
+{
+    color: #9cc900 !important;
+}
+.black-text
+{
+    color: #555 !important;
+}
+.mb-20
+{
+    margin-bottom: 20px!important;
+}
+
+.img-250
+{
+    height:250px !important;
+}
+
+.bg-green:hover {
+  background-color: #9cc900;
+  opacity:0.7 !important;
+  box-shadow: 0 0 0px #000000 !important;    
+}
